@@ -1,1 +1,1 @@
-a weather web application made with django framework  using API from openweathermap
+A weather web application made with django framework  using API from openweathermap
